@@ -1,0 +1,6 @@
+{
+  "name": "SoftTouch Sales & Services",
+  "description": "Manufacturer of sanitary napkin vending machines & incinerators, electric commercial vehicles, weighbridges, plastic baling machines, and facility systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
